@@ -18,6 +18,7 @@ PyWardBot is an open source Telegram message forwarder powered by
 - Add origin chats
 - Get chat info
 - Two sending mode: **copy message or forward message**
+- Whitelist words
 
 ## Use cases
 - Forward messages from one chat to another
@@ -39,7 +40,7 @@ and get the bot token.
 After installing Python and Git, and creating a bot, open a terminal and do the following:
 ```bash
 # Clone repository
-git clone https://github.com/nunnito/PyWardBot.git
+git clone https://github.com/dazhuangzhuang1024/PyWardBot.git
 
 # Change directory to the cloned repository
 cd PyWardBot
